@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Novailoveyou/Exchange-Rate-Calculator/issues"
   },
-  "homepage": "https://novailoveyou.github.io/exchange-rate-calculator",
+  "homepage": "https://novailoveyou.github.io/Exchange-Rate-Calculator",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
