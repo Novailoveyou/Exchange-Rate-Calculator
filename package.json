@@ -1,0 +1,22 @@
+{
+  "name": "exchange-rate-calculator",
+  "version": "1.0.0",
+  "description": "Mini JS app to help us know exchange rates",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novailoveyou/Exchange-Rate-Calculator.git"
+  },
+  "author": "Nover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novailoveyou/Exchange-Rate-Calculator/issues"
+  },
+  "homepage": "https://novailoveyou.github.io/exchange-rate-calculator",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
